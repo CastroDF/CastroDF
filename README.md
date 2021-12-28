@@ -17,9 +17,9 @@
 <br/>
 
 - 🔭 I’m currently working at [Radium Rocket](https://radiumrocket.com/).
-- 🌱 I’m currently learning more about AI.
+- 🌱 I’m currently learning more about blockchain and Solidity.
 - 💬 Ask me about React, Vue, Redux, Vuex or any tech related stuff.
-- 📫 How to reach me: [Twitter - @DiegxCastro](https://twitter.com/DiegxCastro)
+- 📫 How to reach me: [Twitter - @DiegxCastro](https://twitter.com/DiegxCastro) [Instagram - @DiegoCastro.5](https://www.instagram.com/diegocastro.5/)
 - 😄 Pronouns: He/His
 
 **Languages and Tools:**
